@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaundryLibrary", "LaundryLibrary\LaundryLibrary.csproj", "{1EA55F30-0743-4A1D-901D-B7BC5C18D82C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaundryUI", "LaundryUI\LaundryUI.csproj", "{76F1DB78-B49B-4EAB-AFD3-8FE9C2E6F630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EA55F30-0743-4A1D-901D-B7BC5C18D82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA55F30-0743-4A1D-901D-B7BC5C18D82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA55F30-0743-4A1D-901D-B7BC5C18D82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA55F30-0743-4A1D-901D-B7BC5C18D82C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F1DB78-B49B-4EAB-AFD3-8FE9C2E6F630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F1DB78-B49B-4EAB-AFD3-8FE9C2E6F630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F1DB78-B49B-4EAB-AFD3-8FE9C2E6F630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F1DB78-B49B-4EAB-AFD3-8FE9C2E6F630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6484710-7112-4155-A65D-425DCF2E3EA0}
+	EndGlobalSection
+EndGlobal
